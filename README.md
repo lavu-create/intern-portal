@@ -14,9 +14,8 @@ A simple and responsive Intern Dashboard built using **HTML, CSS, JavaScript**, 
 - **Backend**: Node.js, Express.js (dummy data)
 
 ## 📸 Screenshots
-Place your screenshots in a `screenshots/` folder and add them here:
-- [Login Page] (screenshots/)
-- Dashboard View
+- [Login Page](screenshots/login.png)
+- [Dashboard](screenshots/dashboard.png)
 
 ## ⚙️ Setup Instructions
 ```bash
@@ -39,11 +38,17 @@ intern-portal/
 ├── backend/
 │   ├── server.js
 │   └── package.json
-├── index.html
-├── dashboard.html
-├── script.js
-├── styles.css
+├── frontend/
+│   ├── index.html
+│   ├── dashboard.html
+│   ├── script.js
+│   └── styles.css
 ├── screenshots/
+│   ├── login.png
+│   └── dashboard.png
+├── LICENSE
+└── README.md
+
 ```
 
 ## 📄 License

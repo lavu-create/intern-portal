@@ -15,7 +15,7 @@ A simple and responsive Intern Dashboard built using **HTML, CSS, JavaScript**, 
 
 ## 📸 Screenshots
 Place your screenshots in a `screenshots/` folder and add them here:
-- Login Page  
+- [Login Page] (screenshots/)
 - Dashboard View
 
 ## ⚙️ Setup Instructions
